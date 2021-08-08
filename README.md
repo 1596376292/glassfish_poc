@@ -1,0 +1,24 @@
+```
+# glassfish_poc
+```
+
+## 1.导库
+
+pip3 install requests
+
+## 2通过fofa语句
+
+"glassfish" && port="4848"
+
+![image-20210805131155041](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210805131155041.png)
+
+### 3.将fofa搜索网址导出放入ip.txt文档中
+
+![image-20210805131632628](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210805131632628.png)
+
+### 4.运行脚本
+
+python  glassfish.py
+
+![image-20210805131718297](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210805131718297.png)
+
